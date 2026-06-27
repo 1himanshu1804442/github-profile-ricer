@@ -1,5 +1,9 @@
 # GitHub Profile Ricer (Antigravity Skill)
 
+<p align="center">
+  <img src="assets/preview.jpg" alt="Profile Preview Mockup" width="100%">
+</p>
+
 This repository contains an **Antigravity Skill** that allows the AI to automatically revamp and "rice" anyone's GitHub profile README with a premium, dynamic layout!
 
 ### Features of the Ricer:
